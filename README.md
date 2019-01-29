@@ -12,3 +12,5 @@ Learning Objectives:
 - Creating, reading, updating, and deleting database records with PHP
 - Validating data
 - Preventing SQL injection
+
+For the actual LinkedIn Learning link, you can visit: https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics
